@@ -1,0 +1,72 @@
+============
+The Schedule
+============ 
+
+Route_ **(Total Time: ~15hours/869 miles)**
+
+Drive 1
+=======
+
+It's good to know where you are going and how to get there. The following table
+is a great example of how an Engieer would go about planning a road trip. A 
+good Engineer is open to change however, becuase nothing ever goes according to
+plan. The key is to minimize stops and maximize comfortablity. Keep in mind
+that for larger trips **2 cars** may be used. Note things like **time changes**
+when planing a cross country trip as well.
+
+====================== ====================== ======================== ======================
+To Campsite (Wednesday) 
+---------------------------------------------------------------------------------------------
+Time                   Activity               Food                     Gas
+====================== ====================== ======================== ======================
+5:00am                 Leave                  Road Breakfast           Full Tank
+8:00am                 Stop in Bismark                                 option 1
+10:00am                Pick up Tanner                                  option 2
+12:15pm                Pick up Jenna          Lunch                    yes
+6:30pm                 Stop in Cody           Supper (optional)        optional (kinda)
+7:30pm                 Arive at Clearwater    (Supper if not in Cody)
+====================== ====================== ======================== ======================
+
+Drive 2
+=======
+
+With most trips there is also the return trip. Properly prepared Engineers also
+consider this when going on an adventure.
+
+====================== ====================== ======================== ======================
+To Home (Sunday) 
+---------------------------------------------------------------------------------------------
+Time                   Activity               Food                     Gas
+====================== ====================== ======================== ======================
+6:00am                 Leave                  Fast Food Breakfast?     150 miles
+8:30am                 Church in Worland      (Maybe Breakfast?)       yes
+1:00pm                 Drop off Jenna         Lunch                    option 1
+3:15pm                 Drop off Tanner                                 option 2
+7:00pm                 Stop in Bismark        Supper                   yes
+10:00pm                Arive Home
+====================== ====================== ======================== ======================
+
+============= =========== ===================================================================
+Churches
+---------------------------------------------------------------------------------------------
+Town          Time        Website
+============= =========== ===================================================================
+Worland_      8:30am      http://www.worland.com/magdalen/
+Buffalo_      9:30am      https://sjbc-buffalo.com/mass-times  
+============= =========== ===================================================================
+
+Activities
+==========
+
+https://www.yellowstonepark.com/things-to-do/swim-yellowstones-boiling-river
+
+https://www.yellowstonepark.com/things-to-do/gun-fight
+
+https://www.tripadvisor.com/AttractionProductReview-g1798760-d11763556-Classic_8_Mile_Snake_River_Whitewater-Jackson_Hole_Wyoming.html
+
+http://sturgismotorcyclerally.com/
+
+.. _Route: https://www.google.com/maps/dir/Fargo,+ND/Bowman,+North+Dakota+58623/Spearfish,+SD/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/@45.4518593,-105.4716631,7z/am=t/data=!4m26!4m25!1m5!1m1!1s0x52c8cb8d84677145:0x81aa30a52791aaca!2m2!1d-96.7898034!2d46.8771863!1m5!1m1!1s0x532f106ca0d19ac7:0x33317ae32778a9c5!2m2!1d-103.3949061!2d46.1830618!1m5!1m1!1s0x533298585baba5ef:0xe8dded619c5da0aa!2m2!1d-103.8593697!2d44.4908172!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!3e0
+.. _Worland: https://www.google.com/maps/dir/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/St+Mary+Magdalen+Catholic+Church,+1099+Charles+Ave,+Worland,+WY+82401/@44.0801709,-109.3462061,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!1m5!1m1!1s0x534b6d6f4d8f8929:0x829ccde795bfccd5!2m2!1d-107.9551569!2d44.0096908!3e0 
+.. _Buffalo: https://www.google.com/maps/dir/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/Church+of+St+John+the+Baptist,+532+N+Lobban+Ave,+Buffalo,+WY+82834/@44.2784402,-108.738314,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!1m5!1m1!1s0x5335786ebe95814d:0xec3b0d2688083a86!2m2!1d-106.6971525!2d44.3534183!3e0
+

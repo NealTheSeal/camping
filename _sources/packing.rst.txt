@@ -1,0 +1,104 @@
+============
+Packing List
+============
+
+.. bootstrap_columns::
+
+    Group Packing
+    =============
+
+    Group stuff is sort of the one offs. The Stuff that everyone can use. Basically the 
+    engineer in charge is responsible for it.
+
+    Sleeping
+    ########
+
+    - 2/3 Tents
+
+    Eating
+    ######
+
+    - Grill
+    - Grill Fuel
+    - Matches and Lighter
+    - Fry Pan
+    - Water/Stock Pot
+
+    Hydration
+    #########
+
+    - 3 Packs of Water bottles
+    - Water Filter?
+
+    First Aid
+    #########
+
+    Misc
+    ####
+
+    - Maps
+    - Fishing?
+    - Sunscreen and bug spray
+    - Tarp and Rope for outside shelter?
+    - Garbage bags
+    - Cooler
+    - Plates, bowles, utensils, mugs/cups
+    - Saw
+    - Dish soap and sponge
+    - camping chairs
+
+    Personal Packing
+    ================
+
+    Personl stuff is the things everyone needs to bring. Good engineers will work together
+    to share the things they have excess of. Engineers also try to pack everythin in a **backpack**
+    or something that is **easy to carry**. The least exciting thing that can happen to an
+    engineer out camping is for things to get wet so its a good idea to make things **waterproof**.
+
+    Clothes
+    #######
+
+    - 2-3 t-shirts
+    - 1 long sleeve shirt
+    - 1 sweatshirt
+    - 1 pair of light pants
+    - swimming atire
+    - rain jacket or poncho
+    - 2-3 pairs of socks
+    - pj's (sweatpants?)
+    - church clothes for when we leave
+
+    Shoes
+    #####
+
+    - Hiking boot/footware
+    - Flip Floops or your choice of louge footware
+
+    Sleeping
+    ########
+
+    - sleeping bag
+    - sleeping mat
+    - small pillow
+
+    Misc
+    ####
+
+    - shampoo
+    - flashlight
+    - toiletries
+    - sunglasses
+    - towel!!!
+
+    Fun Stuff (DON't bring all of theses)
+    #####################################
+
+    - hammock
+    - radio/bluetooth speaker
+    - cards
+    - baseball glove
+    - football
+    - frisbe
+    - sunglasses
+    - book to read
+    - boardgame
