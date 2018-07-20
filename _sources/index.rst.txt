@@ -15,10 +15,10 @@ FAQs
 --------------------------------------------------------------------------------------
 Question                                                        Where the Answer is
 =============================================================== ======================
-What do Engineers eat while camping?                            
-What does an Engineer bring with them on a camping trip?
-What is the average day like for an Engineer out camping?
-Is camping dangerous for an Engineer?
+What do Engineers eat while camping?                            :doc:`food`
+What does an Engineer bring with them on a camping trip?        :doc:`packing`
+What is the average day like for an Engineer out camping?       :doc:`itinerary`
+Is camping dangerous for an Engineer?                           :doc:`saftey`
 Does an Engineer's phone work camping?
 Can an Engineer fish while camping?
 =============================================================== ======================

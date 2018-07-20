@@ -23,6 +23,7 @@ Packing List
     - Matches and Lighter
     - Fry Pan
     - Water/Stock Pot
+    - wood skewers
 
     Hydration
     #########
@@ -46,6 +47,9 @@ Packing List
     - Saw
     - Dish soap and sponge
     - camping chairs
+    - Paper towels
+    - Wet wipes
+    - Hand sanitizer
 
     Personal Packing
     ================
