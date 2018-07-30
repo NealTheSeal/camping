@@ -4,24 +4,24 @@
 How to Camp like an Engineer!
 =============================
    
-Engineers are experts at everything, even camping. This site will provide a wonderfull example of that.
+Engineers are experts at everything, even camping. This site will provide a wonderful example of that.
 Each page here will take you to a world of pure imagination where you will discover just how an engineer
-goes about camping. This below part is setup in a FAQ, thats frequently asked question, style. That why
+goes about camping. This below part is setup in a FAQ, that's frequently asked question, style. That why
 you can get your answers right away instead of having to explore yourself. Ironic that you want to camp
 and don't want to explore though.
 
-=============================================================== ======================
+=============================================================== ======================================
 FAQs
---------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 Question                                                        Where the Answer is
-=============================================================== ======================
+=============================================================== ======================================
 What do Engineers eat while camping?                            :doc:`food`
 What does an Engineer bring with them on a camping trip?        :doc:`packing`
 What is the average day like for an Engineer out camping?       :doc:`itinerary`
-Is camping dangerous for an Engineer?                           :doc:`saftey`
-Does an Engineer's phone work camping?
-Can an Engineer fish while camping?
-=============================================================== ======================
+Is camping dangerous for an Engineer?                           :doc:`safety`
+Does an Engineer's phone work camping?                          `Comms <safety.html#communications>`_
+Can an Engineer fish while camping?                             :doc:`fishing`
+=============================================================== ======================================
 
 .. toctree::
    :hidden:
@@ -31,7 +31,8 @@ Can an Engineer fish while camping?
    food
    itinerary
    packing
-   saftey
+   safety
+   fishing
    
 .. helpful link for bootstrap columns https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp
    

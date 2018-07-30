@@ -43,7 +43,7 @@ Packing List
     - Tarp and Rope for outside shelter?
     - Garbage bags
     - Cooler
-    - Plates, bowles, utensils, mugs/cups
+    - Plates, bowls, utensils, mugs/cups
     - Saw
     - Dish soap and sponge
     - camping chairs
@@ -54,8 +54,8 @@ Packing List
     Personal Packing
     ================
 
-    Personl stuff is the things everyone needs to bring. Good engineers will work together
-    to share the things they have excess of. Engineers also try to pack everythin in a **backpack**
+    Personal stuff is the things everyone needs to bring. Good engineers will work together
+    to share the things they have excess of. Engineers also try to pack everything in a **backpack**
     or something that is **easy to carry**. The least exciting thing that can happen to an
     engineer out camping is for things to get wet so its a good idea to make things **waterproof**.
 
@@ -66,7 +66,7 @@ Packing List
     - 1 long sleeve shirt
     - 1 sweatshirt
     - 1 pair of light pants
-    - swimming atire
+    - swimming attire
     - rain jacket or poncho
     - 2-3 pairs of socks
     - pj's (sweatpants?)
@@ -76,7 +76,7 @@ Packing List
     #####
 
     - Hiking boot/footware
-    - Flip Floops or your choice of louge footware
+    - Flip Flops or your choice of lounge footware
 
     Sleeping
     ########
@@ -102,7 +102,7 @@ Packing List
     - cards
     - baseball glove
     - football
-    - frisbe
+    - frisbee
     - sunglasses
     - book to read
-    - boardgame
+    - board game

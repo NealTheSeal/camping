@@ -2,12 +2,14 @@
 The Schedule
 ============ 
 
-The best part of camping for an Engieer is there is no schedule! However, like all good engieering
-puzzles thats only half true. What that means is there is a schedule, more of a plan, to get to and from
+The best part of camping for an Engineer is there is no schedule! However, like all good engineering
+puzzles that's only half true. What that means is there is a schedule, more of a plan, to get to and from
 the campsite. Let's be honest if an Engineer didn't have a plan to get to the campsite he'd
-end up in his back yard anyway. Once on site it'll be a **day to day planning** exersise to find
+end up in his back yard anyway. Once on site it'll be a **day to day planning** exercise to find
 fun things to do. The important thing to remember is to stay **flexible**. Which is a good 
 tip for both mind and body.
+
+Route_ **(Total Time: ~13hours/775 miles)**
 
 Activities
 ==========
@@ -19,35 +21,47 @@ Activities
 Recovery Night
 ==============
 
-Engieers are not know for their bravery. Becuase of this its often prudent for an engieer to 
-recouperate in a nice hotel after a long 4 days or hours of camping. This looks like a 
+Engineers are not know for their bravery. Because of this its often prudent for an engineer to 
+recuperate in a nice hotel after a long 4 days or hours of camping. This looks like a 
 nice one here!
 
 `A Wyoming Inn <https://www.google.com/maps/place/A+Wyoming+Inn/@44.5159207,-109.075593,15z/data=!4m2!3m1!1s0x0:0x8e898f81e73b5fcd?sa=X&ved=0ahUKEwjCqezH8avcAhWH5YMKHa99DzIQ_BIIwQEwCg>`_
 
+====================== ====================== ======================== ======================
+To Hotel
+---------------------------------------------------------------------------------------------
+Time                   Activity               Food                     Gas
+====================== ====================== ======================== ======================
+1:00pm                 Pack Up                                         50 Miles worth
+2:00pm                 Leave
+3:00pm                 Hotel Check-in
+3:30pm                 Freshen Up
+5:00pm                 Mass                                             
+====================== ====================== ======================== ======================
+
 Drive 1
 =======
 
-Route_ **(Total Time: ~15hours/869 miles)**
-
 It's good to know where you are going and how to get there. The following table
-is a great example of how an Engieer would go about planning a road trip. A 
-good Engineer is open to change however, becuase nothing ever goes according to
-plan. The key is to minimize stops and maximize comfortablity. Keep in mind
+is a great example of how an Engineer would go about planning a road trip. A 
+good Engineer is open to change however, because nothing ever goes according to
+plan. The key is to minimize stops and maximize comfortability. Keep in mind
 that for larger trips **2 cars** may be used. Note things like **time changes**
 when planing a cross country trip as well.
 
 ====================== ====================== ======================== ======================
-To Campsite (Wednesday) 
+To Campsite
 ---------------------------------------------------------------------------------------------
 Time                   Activity               Food                     Gas
 ====================== ====================== ======================== ======================
-5:00am                 Leave                  On your own              Full Tank
-8:00am                 Stop in Bismark                                 option 1
-10:00am                Pick up Tanner                                  option 2
-12:15pm                Pick up Jenna          Lunch                    yes
-6:30pm                 Stop in Cody           Supper (optional)        optional (kinda)
-7:30pm                 Arive at Clearwater    (Supper if not in Cody)
+6:00am                 Leave                  On your own              Full Tank
+9:00am                 Stop in Bismarck                                option 1
+---------------------------------------------------------------------------------------------
+**time change**
+---------------------------------------------------------------------------------------------
+11:00am                Pick up Extra's                                 option 2
+5:00pm                 Stop in Cody           Supper (optional)        yes
+6:30pm                 Arrive at Clearwater    (Supper if not in Cody)
 ====================== ====================== ======================== ======================
 
 Drive 2
@@ -57,29 +71,17 @@ With most trips there is also the return trip. Properly prepared Engineers also
 consider this when going on an adventure.
 
 ====================== ====================== ======================== ======================
-To Home w/o Church (Sunday) 
+To Home
 ---------------------------------------------------------------------------------------------
 Time                   Activity               Food                     Gas
 ====================== ====================== ======================== ======================
-6:00am                 Leave                                           ~100 miles
-6:45am                 Stop in Cody           Fast Food Breakfast?     yes
-12:00pm                Drop off Jenna         Lunch                    option 1
-2:15pm                 Drop off Tanner                                 option 2
-6:00pm                 Stop in Bismark        Supper                   yes
-9:00pm                 Arive Home
-====================== ====================== ======================== ======================
-
-====================== ====================== ======================== ======================
-To Home w/o Church (Sunday) 
+6:00am                 Leave                                           Full Tank
+12:30pm                Drop off Extra's       Lunch                    option 1
 ---------------------------------------------------------------------------------------------
-Time                   Activity               Food                     Gas
-====================== ====================== ======================== ======================
-6:00am                 Leave                  Fast Food Breakfast?     150 miles
-8:30am                 Church in Worland      (Maybe Breakfast?)       yes
-1:00pm                 Drop off Jenna         Lunch                    option 1
-3:15pm                 Drop off Tanner                                 option 2
-7:00pm                 Stop in Bismark        Supper                   yes
-10:00pm                Arive Home
+**time change**
+---------------------------------------------------------------------------------------------
+4:00pm                 Stop in Bismarck                                option 2
+7:00pm                 Arrive Home
 ====================== ====================== ======================== ======================
 
 ============= =========== ===================================================================
@@ -92,7 +94,7 @@ Worland_      8:30am      http://www.worland.com/magdalen/
 Buffalo_      9:30am      https://sjbc-buffalo.com/mass-times  
 ============= =========== ===================================================================
 
-.. _Route: https://www.google.com/maps/dir/Fargo,+ND/Bowman,+North+Dakota+58623/Spearfish,+SD/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/@45.4518593,-105.4716631,7z/am=t/data=!4m26!4m25!1m5!1m1!1s0x52c8cb8d84677145:0x81aa30a52791aaca!2m2!1d-96.7898034!2d46.8771863!1m5!1m1!1s0x532f106ca0d19ac7:0x33317ae32778a9c5!2m2!1d-103.3949061!2d46.1830618!1m5!1m1!1s0x533298585baba5ef:0xe8dded619c5da0aa!2m2!1d-103.8593697!2d44.4908172!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!3e0
+.. _Route: https://www.google.com/maps/dir/Fargo,+ND/Bowman,+North+Dakota+58623/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/@45.6717925,-105.471651,7z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x52c8cb8d84677145:0x81aa30a52791aaca!2m2!1d-96.7898034!2d46.8771863!1m5!1m1!1s0x532f106ca0d19ac7:0x33317ae32778a9c5!2m2!1d-103.3949061!2d46.1830618!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!3e0
 .. _Worland: https://www.google.com/maps/dir/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/St+Mary+Magdalen+Catholic+Church,+1099+Charles+Ave,+Worland,+WY+82401/@44.0801709,-109.3462061,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!1m5!1m1!1s0x534b6d6f4d8f8929:0x829ccde795bfccd5!2m2!1d-107.9551569!2d44.0096908!3e0 
 .. _Buffalo: https://www.google.com/maps/dir/Clearwater+Campground,+North+Fork+Highway,+Cody,+WY/Church+of+St+John+the+Baptist,+532+N+Lobban+Ave,+Buffalo,+WY+82834/@44.2784402,-108.738314,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x534dd643b5701c49:0x52f609497cf4863!2m2!1d-109.6683332!2d44.4622222!1m5!1m1!1s0x5335786ebe95814d:0xec3b0d2688083a86!2m2!1d-106.6971525!2d44.3534183!3e0
 .. _Cody: https://www.google.com/maps/place/Church+of+St+Anthony/@44.5165373,-109.0874327,13.75z/data=!4m8!1m2!2m1!1scatholic+church!3m4!1s0x0:0x70b197e88d8d3992!8m2!3d44.5226874!4d-109.0766966

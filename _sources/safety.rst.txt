@@ -1,0 +1,75 @@
+=============
+Safety Topics
+=============
+
+Bears
+=====
+
+Bears have captivated many an engineer from the toddler and his Winnie the Pooh to
+the more sophisticated albeit satirical Yogi and Boo-Boo. Childhood memories
+aside bears can cause some roadblocks for the outdoor seeking engineer. The most
+important thing regarding dealing with bears in the wild is **education**. Simply
+being aware of bears and becoming familiar with their habits can go along
+way in protecting one's self. Here is a great article to get you started.
+
+`Bear 101 <https://wgfd.wyo.gov/Wildlife-in-Wyoming/More-Wildlife/Large-Carnivore/Grizzly-Bear-Management/Bear-Wise-Wyoming>`_
+
+There are **Black Bears** and **Grizzly Bears**. Go ahead and give the old black 
+bears a warm hug and feel free to take one home as a pet! For Grizzlies lets 
+just say observe at a distance. Kidding! Obviously but keeping your distance 
+is a good rule of thump. If you **make noise** and let a bear know you are present
+she is most likely to avoid you. Also **keep all food in bear safe locations**.
+Avoid a dangerous bear encounter in the first place is key. If a situations does
+arise remember the following tips.
+
+Tips for bear encounters include:
+
+1. Stay calm
+2. Vocalize and make yourself known in a calm manner
+3. Back away and leave the area slowly
+4. Use bear spray to deter attacks
+5. If contact is inevitable lay flat on your stomach 
+   and cover your neck and head
+
+
+Snakes
+======
+
+Animal Identification is important when it comes to reptiles. That way you can
+tell the difference between something dangerous and something annoying. The 
+following link is a great example this.
+
+`Yellowstone snakes <http://www.justgetout.net/wenatchee/post/SnakeMyths>`_
+
+If bitten by a snake not to worry there is nothing you can do besides going to the
+hospital. This may be concerning as one can feel helpless when there is nothing 
+to do to improve one's situation. However, from a logical point of view there
+is nothing to be done so reacting is straight forward and simple. The best advice
+is to not get bit. Wear **long pants** and **be aware** in snake country.
+
+Buffalo
+=======
+
+Here is what Yellowstone's website has to say about Bison.
+
+    | Bison have injured more people in Yellowstone than any other animal. Bison
+    | are unpredictable and can run three times faster than humans. Always stay 
+    | at least 25 yards (23 m) away from bison.
+
+Seems like if you use **common sense** and trust those scaredy cat like engineering
+senses you will be just fine.
+
+Communications
+==============
+
+On the job communication is key for an Engineer. However, out camping it might be
+nice to cut of all contact with the outside world. This does pose a safety concern
+though if something bad were to happen. A prepared Engineer is mindful of what
+kind of communication is available to him.
+
+`Here's an article <https://www.yellowstonepark.com/park/cell-phone-wifi-yellowstone>`_
+
+This is a good map to look at for reference as well!
+
+.. image:: _images/verizon-coverage.png
+    :align: center
